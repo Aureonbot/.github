@@ -1,7 +1,7 @@
 # AureonBot
 
 <p align="center">
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000016c8210bc7ba46421538810&ts=497267&p=fs&cid=1&sig=168458e151b277ac3e0ce6cf322c67ba8b4ee99640053f11e080dde5ce0379bb&v=0" alt="AureonBot Automated Cryptocurrency Trading Platform" width="780">
+<img src="https://prnt.sc/CwgtYUnBj3BY" alt="AureonBot Automated Cryptocurrency Trading Platform" width="500">
 </p>
 
 [![GET — AUREONBOT](https://img.shields.io/badge/GET-AUREONBOT-2563eb?style=for-the-badge)](https://neivesdesignrack.github.io/.github/AureonBot)
