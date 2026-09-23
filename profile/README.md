@@ -1,7 +1,7 @@
 # AureonBot
 
 <p align="center">
-<img src="https://github.com/Aureonbot/.github/blob/main/Screenshot_225.png?raw=true" alt="AureonBot Automated Cryptocurrency Trading Platform" width="400">
+<img src="https://github.com/Aureonbot/.github/blob/main/Screenshot_225.png?raw=true" alt="AureonBot Automated Cryptocurrency Trading Platform" width="600">
 </p>
 
 
@@ -19,6 +19,10 @@ AureonBot also focuses on visibility. Candlestick charts, trading volume, curren
 
 The project is presented as a fictional software concept and interface design rather than a real exchange, financial institution, or promise of profitable trading. Cryptocurrency markets are highly volatile, automated strategies can generate losses, and historical or simulated performance does not guarantee future results. Any real implementation should include secure API-key handling, permission controls, error recovery, exchange-specific safeguards, transaction verification, and extensive testing before live funds are used.
 
+<p align="center">
+<img src="https://github.com/Aureonbot/.github/blob/main/Screenshot_227.png?raw=true" alt="AureonBot Automated Cryptocurrency Trading Platform" width="600">
+</p>
+
 ---
 
 # Automated Trading, Strategies & Market Analysis
@@ -28,6 +32,10 @@ AureonBot is designed around a central trading engine where users can configure 
 The dashboard provides a consolidated view of market activity with candlestick charts, volume information, price statistics, active positions, recent trades, and bot status. This allows users to observe how a configured strategy behaves while maintaining access to manual controls when intervention is required. Dedicated strategy management can separate active configurations from experimental setups and make it easier to review parameters before enabling automated execution.
 
 A production implementation should support paper trading or another testing environment before live execution. Strategies should be evaluated across different market conditions, and risk limits should be applied independently of expected profitability. Automated trading cannot eliminate market risk, slippage, liquidity problems, exchange outages, API failures, or unexpected strategy behavior.
+
+<p align="center">
+<img src="https://github.com/Aureonbot/.github/blob/main/Screenshot_226.png?raw=true" alt="AureonBot Automated Cryptocurrency Trading Platform" width="600">
+</p>
 
 ---
 
