@@ -1,7 +1,7 @@
 # AureonBot
 
 <p align="center">
-<img src="https://prnt.sc/yG51G-a1GDqU" alt="AureonBot Automated Cryptocurrency Trading Platform" width="780">
+<img src="https://prnt.sc/yG51G-a1GDqU" alt="AureonBot Automated Cryptocurrency Trading Platform" width="400">
 </p>
 
 
