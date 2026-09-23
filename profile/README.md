@@ -53,17 +53,17 @@ The withdrawal interface is designed as a separate confirmation-oriented workflo
 
 AureonBot is envisioned as a desktop trading application that can operate alongside browser sessions, charting tools, exchange connections, and continuous market-data streams. A stable internet connection is more important than high-end graphics hardware, while sufficient memory and processor capacity help when multiple charts, markets, strategies, and historical datasets are active simultaneously.
 
-| Component | Recommended Configuration |
+| Component | Minimum Configuration |
 |---|---|
-| Operating System | Windows 10 or Windows 11 64-bit |
-| Processor | Intel Core i5 10th Gen / AMD Ryzen 5 3600 or better |
-| Memory | 8 GB RAM minimum; 16 GB recommended |
-| Storage | SSD with at least 5 GB free space |
-| Graphics | DirectX 11 compatible GPU with 2 GB VRAM |
-| Display | 1920×1080 or higher |
-| Network | Stable broadband connection with low latency |
-| Security | Encrypted credential storage and account authentication recommended |
-| Exchange Access | Compatible exchange account and authorized API credentials where required |
+| Operating System | Windows 7 / Windows 11 64-bit |
+| Processor | Dual-Core 1.8 GHz or better |
+| Memory | 2 GB RAM minimum; 4 GB recommended |
+| Storage | 300 MB free space |
+| Graphics | Integrated graphics with DirectX 10 support |
+| Display | 1280×720 or higher |
+| Network | Stable internet connection |
+| Architecture | x64 |
+| Exchange Access | Internet access and compatible exchange API credentials where required |
 
 These specifications represent a practical recommended configuration for the fictional AureonBot concept rather than official requirements for a released commercial product. Actual requirements would depend on the final application architecture, number of simultaneous market streams, historical datasets, connected exchanges, enabled strategies, and local analytics workload.
 
